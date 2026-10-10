@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "cd51669e-ff2b-4d84-a60e-b57b3b8cc650"
+      }
+    },
+    "android": {
+      "package": "com.luizacremonezisteam.appcontatotapwm_11_09_2026"
+    }
+  }
+}
